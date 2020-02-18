@@ -1,4 +1,4 @@
-# [Christian Jung Scripts](https://scripts.christianfjung.com/)
+# [Christian F. Jung's Scripts](https://scripts.christianfjung.com/)
 
 This is a Zeit Now Website that simply hosts all my public facing scripts.
 
